@@ -1,2 +1,0 @@
-# Gugudan
-Java Playground Gugudan
