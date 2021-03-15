@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Gugudan {
 
 	public static void main(String[] args) {
-//		System.out.println("2´Ü");
+//		System.out.println("2ï¿½ï¿½");
 //		System.out.println(2 * 1);
 //		System.out.println(2 * 2);
 //		System.out.println(2 * 3);
@@ -16,7 +16,7 @@ public class Gugudan {
 //		
 //		System.out.println("======================");
 //
-//		System.out.println("3´Ü");
+//		System.out.println("3ï¿½ï¿½");
 //		System.out.println(3 * 1);
 //		System.out.println(3 * 2);
 //		System.out.println(3 * 3);
@@ -50,7 +50,7 @@ public class Gugudan {
 		
 		
 		System.out.println("======================");
-		System.out.println("±¸±¸´Ü Áß Ãâ·ÂÇÒ ´ÜÀº?? :");
+		System.out.println("êµ¬êµ¬ë‹¨ ì¤‘ ì¶œë ¥í•  ë‹¨ì€? :");
 
 		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
