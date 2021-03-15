@@ -71,6 +71,9 @@ public class Gugudan {
 		System.out.println(number * 8);
 		System.out.println(number * 9);*/
 		
+		
+		
+		
 		//반복문 while을 통해 더 짧게 출력하기
 		/*int i = 1;
 		while(i <10) {
@@ -80,19 +83,25 @@ public class Gugudan {
 			++i;
 		}*/
 		
+		
+		
 		//반복문 while을 통해 2단부터 9단까지 출력하기
 		/*int i = 2;
-		int j;
+		  int j;
 		
-	    while(i <= 9) {
+	      while(i <= 9) {
 	    	j=1;
-	    	while(j <= 9 ) {
+	    	 while(j <= 9 ) {
 	    		System.out.println( i * j);
 	    		j++;
-	    	}
-	    i++;	
+	    	 }
+	       i++;	
 	    System.out.println(" ");
 	    }*/
+		
+		
+		
+		
 		
 		//반복문 for문을 통해 '더 효율적으로' 2단부터 9단까지 출력하기
 		/*int i;
@@ -104,6 +113,8 @@ public class Gugudan {
 			}
 			System.out.println(" ");
 		}*/
+		
+		
 		
 		
 		
@@ -128,6 +139,8 @@ public class Gugudan {
 		
 		  
 		
+		
+		
 		//for문을 돌면서 2단 실행 결과를 배열에 저장하고, 배열 크기만큼 for문을 통해 결과출력하기
 		/*System.out.println("구현 방법 1");
 		int arr[] = new int[9];
@@ -139,6 +152,8 @@ public class Gugudan {
 	    	System.out.println(arr[i]);
 	    }*/
 		
+		
+		
 		/*System.out.println("구현 방법 2");
 	    
 	    int arr[] = new int[9];
@@ -148,6 +163,8 @@ public class Gugudan {
 			  System.out.println(arr[j]);
 			}*/
 			
+		
+		
 		
 		//이 중 for 문을 이용해 2단부터 9단까지 출력
 		//System.out.println("구현 방법 1");
