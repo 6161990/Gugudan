@@ -50,7 +50,7 @@ public class Gugudan {
 		
 		
 		System.out.println("======================");
-		System.out.println("구구단 중 출력할 단은? :");
+		System.out.println("구구단 중 출력할 단은?? :");
 
 		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
